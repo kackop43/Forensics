@@ -1,0 +1,65 @@
+_kMDItemDisplayNameWithExtensions  = "Original copy.HEIC"
+kMDItemAcquisitionMake             = "Apple"
+kMDItemAcquisitionModel            = "iPhone 15 Pro"
+kMDItemAperture                    = 1.663754436600491
+kMDItemBitsPerSample               = 24
+kMDItemColorSpace                  = "RGB"
+kMDItemContentCreationDate         = 2025-03-28 11:41:35 +0000
+kMDItemContentCreationDate_Ranking = 2025-03-28 00:00:00 +0000
+kMDItemContentModificationDate     = 2025-03-28 11:41:35 +0000
+kMDItemContentType                 = "public.heic"
+kMDItemContentTypeTree             = (
+    "public.heic",
+    "public.heif-standard",
+    "public.image",
+    "public.data",
+    "public.item",
+    "public.content"
+)
+kMDItemCreator                     = "18.3.2"
+kMDItemDateAdded                   = 2025-04-05 09:55:41 +0000
+kMDItemDisplayName                 = "Original copy.HEIC"
+kMDItemDocumentIdentifier          = 173228
+kMDItemEXIFVersion                 = "2.3.2"
+kMDItemExposureMode                = 0
+kMDItemExposureProgram             = 2
+kMDItemExposureTimeSeconds         = 0.0002320185614849188
+kMDItemFlashOnOff                  = 0
+kMDItemFNumber                     = 1.779999971388065
+kMDItemFocalLength                 = 6.764999866370901
+kMDItemFocalLength35mm             = 24
+kMDItemFSContentChangeDate         = 2025-04-05 09:55:31 +0000
+kMDItemFSCreationDate              = 2025-04-05 09:55:28 +0000
+kMDItemFSCreatorCode               = ""
+kMDItemFSFinderFlags               = 0
+kMDItemFSHasCustomIcon             = (null)
+kMDItemFSInvisible                 = 0
+kMDItemFSIsExtensionHidden         = 0
+kMDItemFSIsStationery              = (null)
+kMDItemFSLabel                     = 0
+kMDItemFSName                      = "Original copy.HEIC"
+kMDItemFSNodeCount                 = (null)
+kMDItemFSOwnerGroupID              = 20
+kMDItemFSOwnerUserID               = 501
+kMDItemFSSize                      = 1999977
+kMDItemFSTypeCode                  = ""
+kMDItemHasAlphaChannel             = 0
+kMDItemInterestingDate_Ranking     = 2025-04-05 00:00:00 +0000
+kMDItemISOSpeed                    = 80
+kMDItemKind                        = "HEIF Image"
+kMDItemLogicalSize                 = 1999977
+kMDItemMeteringMode                = 5
+kMDItemOrientation                 = 1
+kMDItemPhysicalSize                = 2002944
+kMDItemPixelCount                  = 24470208
+kMDItemPixelHeight                 = 5712
+kMDItemPixelWidth                  = 4284
+kMDItemProfileName                 = "Display P3"
+kMDItemRedEyeOnOff                 = 0
+kMDItemResolutionHeightDPI         = 72
+kMDItemResolutionWidthDPI          = 72
+kMDItemWhereFroms                  = (
+    "https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=659d4b0bac&attid=0.1&permmsgid=msg-a:r-3974491531230802771&th=19605605d4f228a3&view=att&disp=safe&realattid=f_m941fdcr0&zw&saddbat=ANGjdJ-5qgoXICbIVy7Z0rOLQyc_bLeOx2AAsx5X4zItpyvjoYII6buPOrm7smV5SFG7pq41Up9tktKirF-vWbKMce1RGUFnmJwam-aVxtyQjhoVMqvxTAiamoTnQo9jO85qNCCvS1NhjmuWXGcjxzZUBWkdgijXVLRDqDrByOl3QDBh_EKDjyUEJOk4QToF8YtEkWCuOnxMPrlmnRRj1xIsXu-dunAGwxf2LLkAGxDA4xAdKN81aE6Ay01OvHOGlbbayHhm0dUH1jakuWwLtKG0efWtMfCTIBO79UdrinoBiEi640TwIVubXk4HbzpvGM52VA2PjCuVY1-OKEtgxR-qofcmBSVWSGVrIrT5ncsm7MvEiOQF-KnrXtt0cnHtSh_pGChsLnQnRCdjIqx_wY_u78UzU68PSOrxtbjP-Tyh8V2GiqiAwioM-1XqXKy3vK9elOR84YnlBZx6JehRO04pYjhMuHpqd1ypirbgbi1vP3XGUi0cTWUW_GtmFnbw3sBYklguleUCJk5eXo_utNulxh_GO6RSS0jwBosBS1zlQiMsXWcYXJWNC5So_ACWhqH7pmgX8jzw8kI-30Fe8tQomPpA6a-CyxT6mO_0ndwbCE-U_HIClTBs2fPKSOe5YTEkxZHnQneb_VMWUhUYxtUJT1AmJtCs2FtLrDUKa9yNnEdGnJU-7WV0c4RWrcR5nLcElm6ocGA-i5te_slChEOnlBCw9_EVC5tkiM2-fzDK4c-Pqj7tJAoMLRSKsIDbeXfbctMgUf9R8Jvo_IAOF8Ykjykad4QKUiCwNca_MeWHdaQ7cDfuqwgKVZSwO3eStKpRrpyitPzdxSV7KzJCX_Pyv-kCnkEUiGHbFiCezScifr-iIPH7-6HhWf_Jw-619jlLPWIL6eXau5KUPOodo19Y4GglmV4C6sxm6Mh7Q-bdcPBVzzawiSIBFkktm0K1nH32ywxx-t54Vjbf8hTsiHtMuukCpFd2pNnj-I10HBx27N-Z_YCt7LExcd-SUpB0VOyxYn1lkwKsfIxExl0I",
+    "https://mail.google.com/"
+)
+kMDItemWhiteBalance                = 0
